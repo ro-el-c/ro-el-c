@@ -3,7 +3,7 @@
 
 <br>
 
-![ro-el-c's github stats](https://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=cobalt) [![Solved.ad Profile](http://mazassumnida.stf/api/v2/generate_badge?boj=chung3286)](https://solved.ac./chung3286/) 
+![ro-el-c's github stats](https://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=cobalt)
 
 
 
