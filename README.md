@@ -1,14 +1,11 @@
-### Hi there!
-
-# GYEONG EUN 
+## Hi there! I'm GYEONG EUN :)
 <br>
 
-![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br>
 
-
-### Skills
+> ### Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,12 +13,16 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br><br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br><br><br>
 
-### Tool
+> ### Tool
 ![Git](https://img.shields.io/badge/Git-F46D01.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)<br><br><br><br>
+
+
+
+[![ro-el-c's github activity graph](https://activity-graph.herokuapp.com/graph?username=ro-el-c&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--<br><br><br>
 
