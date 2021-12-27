@@ -17,8 +17,9 @@
 
 > ### Tool
 ![Git](https://img.shields.io/badge/Git-F46D01.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)<br><br><br><br>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)<br><br><br><br>
 
 
 
