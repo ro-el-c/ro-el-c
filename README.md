@@ -15,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br><br><br>
 
-> ### Tool
+> ### Tools
 ![Git](https://img.shields.io/badge/Git-F46D01.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -23,9 +23,9 @@
 
 
 
-[![ro-el-c's github activity graph](https://activity-graph.herokuapp.com/graph?username=ro-el-c&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--<br><br><br>
+[![ro-el-c's github activity graph](https://activity-graph.herokuapp.com/graph?username=ro-el-c&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
+<!--
+<br><br><br>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fro-el-c&count_bg=%238BD7FD&title_bg=%23FDABAB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
