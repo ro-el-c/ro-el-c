@@ -24,7 +24,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br><br><br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br><br><br>
 
 ![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=solarized-light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&theme=solarized-light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
