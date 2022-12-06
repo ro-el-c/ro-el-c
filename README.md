@@ -3,30 +3,34 @@
 
 > ### Now Learning & Goals
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br><br><br>
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)<br><br><br>
 
-> ### Skills
+> ### Skills & Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br><br><br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br><br><br>
 
 > ### Tools
 ![Git](https://img.shields.io/badge/Git-F46D01.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br><br><br>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%237E4DD2.svg?style=for-the-badge&logo=figma&logoColor=white)<br><br><br>
 
 ![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=solarized-light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&theme=solarized-light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chung3286)](https://solved.ac/chung3286)
+<img src="http://mazandi.herokuapp.com/api?handle=chung3286&theme=cold"/>
 <br><br><br>
 
 
