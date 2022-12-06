@@ -28,9 +28,9 @@
 ![Figma](https://img.shields.io/badge/figma-%237E4DD2.svg?style=for-the-badge&logo=figma&logoColor=white)<br><br><br>
 
 ![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=solarized-light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&theme=solarized-light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&theme=solarized-light&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chung3286)](https://solved.ac/chung3286)
-<img src="http://mazandi.herokuapp.com/api?handle=chung3286&theme=cold"/>
+<!--<img src="http://mazandi.herokuapp.com/api?handle=chung3286&theme=cold"/> -->
 <br><br><br>
 
 
