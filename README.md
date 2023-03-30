@@ -30,7 +30,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br><br><br>
 
 > ### Visit My Blog
-[![roel-yomojomo Start](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo&postId=2)](https://roel-yomojomo.tistory.com/2)
+<!--[![roel-yomojomo Start](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo&postId=2)](https://roel-yomojomo.tistory.com/2)-->
 [![roel-yomojomo Newest Post](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo)](https://github.com/MoonJuhan/tistory-readme-stats)<br><br><br>
 
 > ### Github stats & Solved.ac Profile
