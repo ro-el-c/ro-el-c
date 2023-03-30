@@ -1,4 +1,6 @@
 ## Hi there! I'm GYEONG EUN :) 
+
+
 <br> 
 
 > ### Now Learning & Goals
@@ -27,8 +29,14 @@
 ![Figma](https://img.shields.io/badge/figma-%237E4DD2.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br><br><br>
 
+> ### Visit My Blog
+[![roel-yomojomo Start](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo&postId=2)](https://roel-yomojomo.tistory.com/2)
+[![roel-yomojomo Newest Post](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo)](https://github.com/MoonJuhan/tistory-readme-stats)<br><br><br>
+
+> ### Github stats & Solved.ac Profile
 ![ro-el-c's github stats](https://github-readme-stats.vercel.app/api?username=ro-el-c&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chung3286)](https://solved.ac/chung3286)
+
 
 <!--
 ![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=onedark)
