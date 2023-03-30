@@ -27,9 +27,11 @@
 ![Figma](https://img.shields.io/badge/figma-%237E4DD2.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br><br><br>
 
-![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![ro-el-c's github stats](https://github-readme-stats.vercel.app/api?username=ro-el-c&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+<!--
+![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 <br><br><br>
