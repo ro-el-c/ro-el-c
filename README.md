@@ -41,7 +41,7 @@
 
 
 > #### Visit My Blog ! This is my Newest Post ☺️
-<a href="https://roel-yomojomo.tistory.com"><img src="https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo"></a>
+[![roel-yomojomo Start](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo)](https://roel-yomojomo.tistory.com)
 
 <!--[![roel-yomojomo Start](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo&postId=2)](https://roel-yomojomo.tistory.com/2)
   [![roel-yomojomo Newest Post](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo)](https://roel-yomojomo.tistory.com/)--><br>
