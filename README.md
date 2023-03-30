@@ -28,6 +28,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br><br><br>
 
 ![ro-el-c's github stats](https://github-readme-stats.vercel.app/api?username=ro-el-c&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chung3286)](https://solved.ac/chung3286)
 
 <!--
 ![ro-el-c's github stats](http://github-readme-stats.vercel.app/api?username=ro-el-c&show_icons=true&theme=onedark)
