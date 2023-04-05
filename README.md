@@ -48,8 +48,16 @@
 
 <br>
 
-![ro-el-c's github stats](https://github-readme-stats.vercel.app/api?username=ro-el-c&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+> #### Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chung3286)](https://solved.ac/profile/chung3286)
+
+<br>
+
+> #### GitHub Stats
+_lagnuages stats without jupyter notebook, css, html, javascript, c_
+
+![ro-el-c's github stats](https://github-readme-stats.vercel.app/api?username=ro-el-c&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-el-c&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,javascript,c)](https://github.com/ro-el-c)
 
 
 <!--
