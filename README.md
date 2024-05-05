@@ -7,6 +7,7 @@
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA-Hibernate-aca69f?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br><br>
 
@@ -47,21 +48,13 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%237E4DD2.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
--->
-
-
-> ### Visit My Blog ! This is my Newest Post ☺️
-[![roel-yomojomo](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo)](https://roel-yomojomo.tistory.com)
-
-<!--[![roel-yomojomo Start](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo&postId=2)](https://roel-yomojomo.tistory.com/2)
-  [![roel-yomojomo Newest Post](https://tistory-readme-stats.vercel.app/api?name=roel-yomojomo)](https://roel-yomojomo.tistory.com/)--><br>
-
-<br>
 
 > #### Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chung3286)](https://solved.ac/profile/chung3286)
 
 <br>
+
+-->
 
 > #### GitHub Stats
 ![ro-el-c's github stats](https://github-readme-stats.vercel.app/api?username=ro-el-c&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
