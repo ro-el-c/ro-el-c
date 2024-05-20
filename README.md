@@ -41,7 +41,6 @@
 > #### TMI, I like Music🎶🎶
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) 
-
 <br><br>
 
 > #### GitHub Stats
